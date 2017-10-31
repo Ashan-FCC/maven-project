@@ -1,6 +1,6 @@
-/**
+/**.
 *
-*This is some information
+*This is some information.
 *
 */
 
